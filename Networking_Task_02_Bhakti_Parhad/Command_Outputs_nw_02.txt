@@ -1,0 +1,62 @@
+NETWORKING_TASK 02 - COMMAND OUTPUTS
+
+WINDOWS
+
+Command:
+ipconfig /all
+
+Output:
+Hostname: LAPTOP-UPABTK5H
+IPv4 Address: 192.168.27.1
+Default Gateway: 10.180.51.197
+DNS Server: 10.180.51.197
+
+--------------------------------------------------
+
+Command:
+nslookup google.com
+
+Output:
+Name: google.com
+Address: 142.250.143.113
+
+--------------------------------------------------
+
+Command:
+ping google.com
+
+Output:
+Reply received successfully.
+Packets Sent = 4
+Packets Received = 4
+Packets Lost = 0
+
+--------------------------------------------------
+
+KALI LINUX
+
+Command:
+ip addr
+
+Output:
+Interface: eth0
+IPv4 Address: 10.xxx.xx.xxx
+
+--------------------------------------------------
+
+Command:
+nslookup google.com
+
+Output:
+Name: google.com
+Address: 142.250.206.110
+
+--------------------------------------------------
+
+Command:
+ping google.com
+
+Output:
+2 packets transmitted
+2 packets received
+0% packet loss

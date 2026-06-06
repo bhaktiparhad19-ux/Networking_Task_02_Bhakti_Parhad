@@ -1,0 +1,52 @@
+NETWORKING_TASK 02 - ANSWERS
+
+
+
+Part B - IP Address Classification
+
+1. 192.168.1.10 - Private
+Reason: Falls within the private IP range 192.168.0.0 – 192.168.255.255.
+
+2. 10.0.0.5 - Private
+Reason: Falls within the private IP range 10.0.0.0 – 10.255.255.255.
+
+3. 172.16.5.20 - Private
+Reason: Falls within the private IP range 172.16.0.0 – 172.31.255.255.
+
+4. 8.8.8.8 - Public
+Reason: Publicly accessible IP address.
+
+5. 1.1.1.1 - Public
+Reason: Publicly accessible IP address.
+
+6. 192.168.100.1 - Private
+Reason: Falls within the private IP range 192.168.0.0 – 192.168.255.255.
+
+
+
+Part C - Understanding Your Network
+
+Q1. Which IP range does your device belong to?
+Answer: 10.180.51.70 belongs to the range 10.0.0.0 – 10.255.255.255.
+
+Q2. Is the IP address Public or Private?
+Answer: Private IP Address.
+
+Q3. What role does the router play?
+Answer: A router forwards data between networks and provides Internet access.
+
+Q4. What would happen if DNS stopped working?
+Answer: Domain names would not be translated into IP addresses, making website access difficult.
+
+
+
+Part E - Practical Command Exercise
+
+Q1. What IP address did DNS return for Google?
+Answer: 142.250.206.110
+
+Q2. Was the ping successful?
+Answer: Yes, the ping was successful.
+
+Q3. Why is DNS important before communication begins?
+Answer: DNS converts domain names into IP addresses so devices can locate the correct server.
