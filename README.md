@@ -52,3 +52,4 @@ This repository contains the submission for Task 02 of the White Band Associates
 * Gained practical experience with DNS resolution and network connectivity testing.
 * Developed a better understanding of network communication processes.
 * Improved documentation and reporting skills.
+
